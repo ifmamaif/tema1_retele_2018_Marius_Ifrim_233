@@ -1,0 +1,19 @@
+Attaching to docker_rt3_1
+[36mrt3_1  |[0m PING rt1 (1.2.3.1) 56(84) bytes of data.
+[36mrt3_1  |[0m 64 bytes from docker_rt1_1.docker_tnet2 (1.2.3.1): icmp_seq=1 ttl=64 time=0.073 ms
+[36mrt3_1  |[0m 64 bytes from docker_rt1_1.docker_tnet2 (1.2.3.1): icmp_seq=2 ttl=64 time=0.142 ms
+[36mrt3_1  |[0m 64 bytes from docker_rt1_1.docker_tnet2 (1.2.3.1): icmp_seq=3 ttl=64 time=0.162 ms
+[36mrt3_1  |[0m 64 bytes from docker_rt1_1.docker_tnet2 (1.2.3.1): icmp_seq=4 ttl=64 time=0.121 ms
+[36mrt3_1  |[0m 64 bytes from docker_rt1_1.docker_tnet2 (1.2.3.1): icmp_seq=5 ttl=64 time=0.142 ms
+[36mrt3_1  |[0m 64 bytes from docker_rt1_1.docker_tnet2 (1.2.3.1): icmp_seq=6 ttl=64 time=0.111 ms
+[36mrt3_1  |[0m 64 bytes from docker_rt1_1.docker_tnet2 (1.2.3.1): icmp_seq=7 ttl=64 time=0.142 ms
+[36mrt3_1  |[0m 64 bytes from docker_rt1_1.docker_tnet2 (1.2.3.1): icmp_seq=8 ttl=64 time=0.143 ms
+[36mrt3_1  |[0m 64 bytes from docker_rt1_1.docker_tnet2 (1.2.3.1): icmp_seq=9 ttl=64 time=0.139 ms
+[36mrt3_1  |[0m 64 bytes from docker_rt1_1.docker_tnet2 (1.2.3.1): icmp_seq=10 ttl=64 time=0.138 ms
+[36mrt3_1  |[0m 64 bytes from docker_rt1_1.docker_tnet2 (1.2.3.1): icmp_seq=11 ttl=64 time=0.057 ms
+[36mrt3_1  |[0m 64 bytes from docker_rt1_1.docker_tnet2 (1.2.3.1): icmp_seq=12 ttl=64 time=0.089 ms
+[36mrt3_1  |[0m 64 bytes from docker_rt1_1.docker_tnet2 (1.2.3.1): icmp_seq=13 ttl=64 time=0.120 ms
+[36mrt3_1  |[0m 64 bytes from docker_rt1_1.docker_tnet2 (1.2.3.1): icmp_seq=14 ttl=64 time=0.136 ms
+[36mrt3_1  |[0m 64 bytes from docker_rt1_1.docker_tnet2 (1.2.3.1): icmp_seq=15 ttl=64 time=0.094 ms
+[36mrt3_1  |[0m 64 bytes from docker_rt1_1.docker_tnet2 (1.2.3.1): icmp_seq=16 ttl=64 time=0.140 ms
+[36mrt3_1  |[0m 64 bytes from docker_rt1_1.docker_tnet2 (1.2.3.1): icmp_seq=17 ttl=64 time=0.060 ms
